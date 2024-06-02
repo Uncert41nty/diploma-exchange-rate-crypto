@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diploma-exchange-rate-crypto/static/css/main.d06a4ef1.css",
+    "main.js": "/diploma-exchange-rate-crypto/static/js/main.9c6d6808.js",
+    "index.html": "/diploma-exchange-rate-crypto/index.html",
+    "main.d06a4ef1.css.map": "/diploma-exchange-rate-crypto/static/css/main.d06a4ef1.css.map",
+    "main.9c6d6808.js.map": "/diploma-exchange-rate-crypto/static/js/main.9c6d6808.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d06a4ef1.css",
+    "static/js/main.9c6d6808.js"
+  ]
+}
